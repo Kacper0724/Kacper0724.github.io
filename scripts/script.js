@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var apiRoot = 'http://spring-web.kacper0724.repl.co/v1/task';
+    var apiRoot = 'https://spring-web.kacper0724.repl.co/v1/task';
     var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
     var tasksContainer = $('[data-tasks-container]');
   
